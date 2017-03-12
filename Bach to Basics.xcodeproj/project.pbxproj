@@ -425,6 +425,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5342GBW3S2;
 				INFOPLIST_FILE = "Bach to Basics/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Maranville-Designs.Bach-to-Basics";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -438,6 +439,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5342GBW3S2;
 				INFOPLIST_FILE = "Bach to Basics/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Maranville-Designs.Bach-to-Basics";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -522,6 +524,7 @@
 				7A46E3951E74A76D00D397AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A46E3961E74A76D00D397AF /* Build configuration list for PBXNativeTarget "Bach to BasicsTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +533,7 @@
 				7A46E3981E74A76D00D397AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A46E3991E74A76D00D397AF /* Build configuration list for PBXNativeTarget "Bach to BasicsUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +542,7 @@
 				7A46E39B1E74A76D00D397AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
