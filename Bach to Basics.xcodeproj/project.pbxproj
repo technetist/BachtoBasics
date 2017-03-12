@@ -14,6 +14,8 @@
 		7A46E3791E74A76D00D397AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A46E3771E74A76D00D397AF /* LaunchScreen.storyboard */; };
 		7A46E3841E74A76D00D397AF /* Bach_to_BasicsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A46E3831E74A76D00D397AF /* Bach_to_BasicsTests.swift */; };
 		7A46E38F1E74A76D00D397AF /* Bach_to_BasicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A46E38E1E74A76D00D397AF /* Bach_to_BasicsUITests.swift */; };
+		7A46E39D1E74AD9900D397AF /* bach.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A46E39C1E74AD9900D397AF /* bach.png */; };
+		7A46E39F1E74B41A00D397AF /* bach.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7A46E39E1E74B41A00D397AF /* bach.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		7A46E38A1E74A76D00D397AF /* Bach to BasicsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bach to BasicsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A46E38E1E74A76D00D397AF /* Bach_to_BasicsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bach_to_BasicsUITests.swift; sourceTree = "<group>"; };
 		7A46E3901E74A76D00D397AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A46E39C1E74AD9900D397AF /* bach.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bach.png; sourceTree = "<group>"; };
+		7A46E39E1E74B41A00D397AF /* bach.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bach.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				7A46E3701E74A76D00D397AF /* ViewController.swift */,
 				7A46E3721E74A76D00D397AF /* Main.storyboard */,
 				7A46E3751E74A76D00D397AF /* Assets.xcassets */,
+				7A46E39E1E74B41A00D397AF /* bach.mp3 */,
+				7A46E39C1E74AD9900D397AF /* bach.png */,
 				7A46E3771E74A76D00D397AF /* LaunchScreen.storyboard */,
 				7A46E37A1E74A76D00D397AF /* Info.plist */,
 			);
@@ -235,7 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A46E39F1E74B41A00D397AF /* bach.mp3 in Resources */,
 				7A46E3791E74A76D00D397AF /* LaunchScreen.storyboard in Resources */,
+				7A46E39D1E74AD9900D397AF /* bach.png in Resources */,
 				7A46E3761E74A76D00D397AF /* Assets.xcassets in Resources */,
 				7A46E3741E74A76D00D397AF /* Main.storyboard in Resources */,
 			);
